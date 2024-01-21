@@ -1,125 +1,122 @@
+# List: https://www.youtube.com/playlist?list=OLAK5uy_n2nFJP95k5thFZVSVJ1uUlnguHHVu_XbQ
+
 -
-  file: "tolu.opus"
-  title: "Tolu"
+  file: "tolú.mp3"
+  title: "Tolú"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=bv-leLNi3Yw"
-  track: 1
+  url: "https://www.youtube.com/watch?v=bv-leLNi3Yw"
 
 -
-  file: "carmen-de-bolivar.opus"
-  title: "Carmen de Bolivar"
+  file: "carmen-de-bolívar.mp3"
+  title: "Carmen De Bolívar"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=iXdgSl96oTE"
-  track: 2
+  url: "https://www.youtube.com/watch?v=iXdgSl96oTE"
 
 -
-  file: "la-gaita.opus"
+  file: "la-gaita.mp3"
   title: "La Gaita"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=tSgbLlXEY8U"
-  track: 3
+  url: "https://www.youtube.com/watch?v=tSgbLlXEY8U"
 
 -
-  file: "colombia-tierra-querida.opus"
+  file: "colombia-tierra-querida.mp3"
   title: "Colombia Tierra Querida"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=gX7P2cEw87Y"
-  track: 4
+  url: "https://www.youtube.com/watch?v=gX7P2cEw87Y"
 
 -
-  file: "fiesta-de-negritos.opus"
-  title: "Fiesta de Negritos"
+  file: "fiesta-de-negritos.mp3"
+  title: "Fiesta De Negritos"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=AHleRUQjgQo"
-  track: 5
+  url: "https://www.youtube.com/watch?v=AHleRUQjgQo"
 
 -
-  file: "salsipuedes.opus"
+  file: "salsipuedes.mp3"
   title: "Salsipuedes"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=13fGJhoMp-c"
-  track: 6
+  url: "https://www.youtube.com/watch?v=13fGJhoMp-c"
 
 -
-  file: "san-fernando.opus"
+  file: "san-fernando.mp3"
   title: "San Fernando"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=7nxQoTn6N4U"
-  track: 7
+  url: "https://www.youtube.com/watch?v=7nxQoTn6N4U"
 
 -
-  file: "la-danza-negra.opus"
+  file: "la-danza-negra.mp3"
   title: "La Danza Negra"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=WtvdK8WBLjI"
-  track: 8
+  url: "https://www.youtube.com/watch?v=WtvdK8WBLjI"
 
 -
-  file: "gaiteando.opus"
+  file: "gaiteando.mp3"
   title: "Gaiteando"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=FXtC6bn7GEY"
-  track: 9
+  url: "https://www.youtube.com/watch?v=FXtC6bn7GEY"
 
 -
-  file: "prende-la-vela.opus"
-  title: "Prende la Vela"
+  file: "prende-la-vela.mp3"
+  title: "Prende La Vela"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=OmqfJ-My9DE"
-  track: 10
+  url: "https://www.youtube.com/watch?v=OmqfJ-My9DE"
 
 -
-  file: "tina.opus"
+  file: "tina.mp3"
   title: "Tina"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=-tSzHCROvS0"
-  track: 11
+  url: "https://www.youtube.com/watch?v=-tSzHCROvS0"
 
 -
-  file: "minarete.opus"
+  file: "minarete.mp3"
   title: "Minarete"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=cmzGiCUyDWM"
-  track: 12
+  url: "https://www.youtube.com/watch?v=cmzGiCUyDWM"
 
 -
-  file: "gaita-de-las-flores.opus"
-  title: "Gaita de las Flores"
+  file: "gaita-de-las-flores.mp3"
+  title: "Gaita De Las Flores"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=elrL7sp_gyM"
-  track: 13
+  url: "https://www.youtube.com/watch?v=elrL7sp_gyM"
 
 -
-  file: "arturo-garcia.opus"
-  title: "Arturo Garcia"
+  file: "borrachera.mp3"
+  title: "Borrachera"
   artist: "Lucho Bermudez"
   album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
   year: 2011
-  link: "https://www.youtube.com/watch?v=3wdlNiJxbc8"
-  track: 15
+  url: "https://www.youtube.com/watch?v=W-040SXjv9U"
+
+-
+  file: "arturo-garcía.mp3"
+  title: "Arturo García"
+  artist: "Lucho Bermudez"
+  album: "Homenaje a Los Grandes Compositores de la Musica Tropical Colombiana Volume 1"
+  year: 2011
+  url: "https://www.youtube.com/watch?v=3wdlNiJxbc8"
+
