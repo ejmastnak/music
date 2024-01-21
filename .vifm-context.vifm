@@ -1,0 +1,10 @@
+let $VIFM_CONTEXT = expand('%d')
+
+nnoremap ;h :cd $VIFM_CONTEXT<CR>
+nnoremap ;jj :cd $VIFM_CONTEXT/jazz<CR>
+
+nnoremap ;cc :cd $VIFM_CONTEXT/colombia<CR>
+nnoremap ;nn :cd $VIFM_CONTEXT/norah-jones<CR>
+nnoremap ;rr :cd $VIFM_CONTEXT/reggae-classics<CR>
+nnoremap ;jlg :cd $VIFM_CONTEXT/jlg<CR>
+nnoremap ;cu :cd $VIFM_CONTEXT/cuba<CR>
