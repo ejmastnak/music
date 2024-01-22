@@ -4,13 +4,17 @@
   artist: "The Latin Brothers"
   album: "Sobre Las Olas"
   year: 1999
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=dIe_SKXvFhc"
 
 -
-  file: "del-puente-para-alla.mp3"
-  title: "Del Puente Pa Alla"
+  file: "del-puente-pa-allá.mp3"
+  title: "Del Puente Pa' Allá"
   artist: "Grupo Niche"
   album: "Triunfo"
   year: 1985
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=oJxmsPdan_0"
 
 -
   file: "cali-aji.mp3"
@@ -18,13 +22,17 @@
   artist: "Grupo Niche"
   album: "Cielo De Tambores"
   year: 1990
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=W9SucyFN2iU"
 
 -
-  file: "listo-medellin.mp3"
-  title: "Listo Medellin"
+  file: "listo-medellín.mp3"
+  title: "Listo Medellín"
   artist: "Grupo Niche"
   album: "Triunfo"
   year: 1985
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=dRm9NQR-fIk"
 
 -
   file: "mi-billete.mp3"
@@ -32,6 +40,8 @@
   artist: "Guayacan Orquesta"
   album: "Marcando La Diferencia"
   year: 1995
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=7sGOGltzD7Y"
 
 -
   file: "torero.mp3"
@@ -39,20 +49,26 @@
   artist: "Guayacan Orquesta"
   album: "Con El Corazon Abierto"
   year: 1993
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=ZMylW-IMxQc"
 
 -
-  file: "ven-a-medellin.mp3"
-  title: "Ven A Medellin"
+  file: "ven-a-medellín.mp3"
+  title: "Ven A Medellín"
   artist: "Grupo Gale"
   album: "Afirmando"
   year: 1994
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=FC2CX0Sfe70"
 
 -
   file: "la-danza-de-la-chancaca.mp3"
-  title: "La Danza de la Chancaca"
+  title: "La Danza De La Chancaca"
   artist: "Grupo Niche"
   album: "La Danza de la Chancaca"
   year: 2001
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=h7DGKweqLi4"
 
 -
   file: "cali-pachanguero.mp3"
@@ -60,6 +76,8 @@
   artist: "Grupo Niche"
   album: "No Hay Quinto Malo"
   year: 1984
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=YLjGoiOi8ac"
 
 -
   file: "buenaventura-y-caney.mp3"
@@ -67,6 +85,8 @@
   artist: "Grupo Niche"
   album: "Querer Es Poder"
   year: 1981
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=imOL7pAOjDM"
 
 -
   file: "oiga-mire-vea.mp3"
@@ -74,6 +94,8 @@
   artist: "Guayacan Orquesta"
   album: "Sentimental De Punta A Punta"
   year: 1991
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=4Ponh0L0rj4"
 
 -
   file: "bailame-como-quieras.mp3"
@@ -81,6 +103,8 @@
   artist: "The Latin Brothers"
   album: "Bailame Como Quieras"
   year: 1977
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=Q40Jp7URozg"
 
 -
   file: "barranquillero-arrebatao.mp3"
@@ -88,6 +112,8 @@
   artist: "Fruko y Sus Tesos"
   album: "Todos Bailan Salsa"
   year: 1998
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=lYt-wDDQBHs"
 
 -
   file: "en-barranquilla-me-quedo.mp3"
@@ -95,20 +121,26 @@
   artist: "Joe Arroyo"
   album: "Los Gigantes del Salsa"
   year: 2001
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=ibcAAlM6R9U"
 
 -
-  file: "la-rebelion.mp3"
-  title: "Rebelion (No Le Pegue a la Negra)"
+  file: "la-rebelión.mp3"
+  title: "La Rebelión"
   artist: "Joe Arroyo"
   album: "Inolvidables Temas Latinos- Para Bailar y Gozar!, Vol. 1"
   year: 2009
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=Wdu5W3cnsj0"
 
 -
-  file: "las-calenas-son-como-la-flores.mp3"
-  title: "Las Calenas Son Como La Flores"
+  file: "las-caleñas-son-como-las-flores.mp3"
+  title: "Las Caleñas Son Como Las Flores"
   artist: "The Latin Brothers"
   album: "Buscandote"
   year: 1977
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=qVvBD0VOVMU"
 
 -
   file: "a-ti-barranquilla.mp3"
@@ -116,6 +148,8 @@
   artist: "Grupo Niche"
   album: "Al Pasito"
   year: 1979
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=yEgACy_CUYk"
 
 -
   file: "al-pasito.mp3"
@@ -123,6 +157,8 @@
   artist: "Grupo Niche"
   album: "Al Pasito"
   year: 1979
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=IH1lgli9ze0"
 
 -
   file: "bonitas-y-hermosas.mp3"
@@ -130,3 +166,5 @@
   artist: "Grupo Niche"
   album: "Preparate"
   year: 1982
+  genre: "Salsa Colombiana"
+  url: "https://www.youtube.com/watch?v=p-hLtUjiRmg"
