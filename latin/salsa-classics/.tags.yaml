@@ -1,104 +1,105 @@
-la-murga-de-panama.mp3:
-  album: Asalto Navideqo
+-
+  file: "la-murga-de-panama.mp3"
   title: La Murga
-  year: 1971
+  album: Asalto Navideqo
   artist: Hictor Lavoe and Willie Colsn
-  track: 1
-
-che-che-cole.mp3:
-  artist: Willie Colsn
+  year: 1971
+  
+-
+  file: "che-che-cole.mp3"
   title: Che Che Cole
+  artist: Willie Colsn
   album: Cosa Nuestra
   year: 1970
-  track: 2
-
-tema-del-papelon.mp3:
-  album: Mucho Nelson
-  year: 1968
+  
+-
+  file: "tema-del-papelon.mp3"
   title: Tema del Papelon
   artist: Nelson y Sus Estrellas
-  track: 3
-
-la-rebelion.mp3:
+  album: Mucho Nelson
+  year: 1968
+  
+-
+  file: "la-rebelion.mp3"
   title: Rebelion (No Le Pegue a la Negra)
+  artist: Joe Arroyo Y La Verdad
   album: Musa Original
   year: 1986
-  artist: Joe Arroyo Y La Verdad
-  track: 4
-
-acuyuye.mp3:
-  album: Que Suene La Flauta
+  
+-
+  file: "acuyuye.mp3"
   title: Acuyuye
   artist: Pacheco y Su Charanga
+  album: Que Suene La Flauta
   year: 1962
-  track: 5
-
-en-barranquilla-me-quedo.mp3:
+  
+-
+  file: "en-barranquilla-me-quedo.mp3"
   title: En Barranquilla Me Quedo
   artist: Joe Arroyo Y La Verdad
   album: Fuego En Mi Mente
   year: 1988
-  track: 6
-
-micaela.mp3:
-  album: Heavy Salsa
+  
+-
+  file: "micaela.mp3"
   title: Micaela
-  year: 1998
   artist: Sonora Carruseles
-  track: 7
-
-el-rincon.mp3:
-  album: Swing
+  album: Heavy Salsa
+  year: 1998
+  
+-
+  file: "el-rincon.mp3"
   title: El Rincon
-  year: 1965
   artist: Conjunto Sensacisn
-  track: 8
-
-pita-camion.mp3:
-  year: 1977
+  album: Swing
+  year: 1965
+  
+-
+  file: "pita-camion.mp3"
   title: Pita Camisn
   artist: Charanga 76
   album: Pita Camion
-  track: 9
-
-ganas-de-bailar-el-son.mp3:
-  year: 1979
+  year: 1977
+  
+-
+  file: "ganas-de-bailar-el-son.mp3"
   title: Ganas de Bailar el Son
   artist: La Charanga Casino
   album:  oberto Torres Presenta... La Charanga Casino
-  track: 10
-
-me-voy-pa-moron.mp3:
+  year: 1979
+  
+-
+  file: "me-voy-pa-moron.mp3"
   title: Me Voy Pa Moron
   artist: Nelson y Sus Estrellas
   album: La Salsa Y El Swing
   year: 1967
-  track: 11
-
-azucar.mp3:
-  album: Azucar Pa Ti
-  year: 1965
+  
+-
+  file: "azucar.mp3"
   title: Azucar
   artist: Eddie Palmieri
-  track: 12
-
-cachondea.mp3:
-  album: Power Salsa
-  year: 2000
+  album: Azucar Pa Ti
+  year: 1965
+  
+-
+  file: "cachondea.mp3"
   title: Cachondea
   artist: Fruko y Sus Tesos
-  track: 13
-
-la-salsa-se-impone.mp3:
-  year: 1977
+  album: Power Salsa
+  year: 2000
+  
+-
+  file: "la-salsa-se-impone.mp3"
   title: La Salsa Se Impone
   artist: Joe Quijano
   album: Joe Quijano Presenta A Ray Cruz Con El Conjunto Cachana
-  track: 14
-
-guajiro.mp3:
-  album: Roberto Torres Presenta... La Charanga Casino
-  year: 1979
+  year: 1977
+  
+-
+  file: "guajiro.mp3"
   title: Guajiro
   artist: La Charanga Casino
-  track: 15
+  album: Roberto Torres Presenta... La Charanga Casino
+  year: 1979
+  

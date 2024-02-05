@@ -134,7 +134,7 @@
   artist: "Timbalive"
   album: "Tremendo Palo"
   year: 2023
-  genre: "Timbalive"
+  genre: "Timba"
   url: "https://www.youtube.com/watch?v=eo3hvuMOuLE"
 
 -
@@ -145,4 +145,76 @@
   year: 2021
   genre: "Timba"
   url: "https://www.youtube.com/watch?v=twazv81bIfY"
+
+-
+  file: "conmigo-no.mp3"
+  title: "Conmigo No"
+  artist: "Timbalive"
+  album: "Con La Musica Cubana No!"
+  year: 2013
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=-X28WIssVHU"
+
+-
+  file: "tu-eres-la-candela.mp3"
+  title: "Tu Eres La Candela"
+  artist: "Timbalive"
+  album: "Con La Musica Cubana No!"
+  year: 2013
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=vfHsTH63fvY"
+
+-
+  file: "díme-con-que.mp3"
+  title: "Díme Con Que?"
+  artist: "Timbalive"
+  album: "Con La Musica Cubana No!"
+  year: 2013
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=YI9eoBsobJw"
+
+-
+  file: "ra-ra-ra.mp3"
+  title: "Ra Ra Ra"
+  artist: "Timbalive"
+  album: "La Timba Pa' To' El Mundo"
+  year: 2011
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=kecph0xta8w"
+
+-
+  file: "arriba-tu-gozas-mas.mp3"
+  title: "Arriba Tu Gozas Mas"
+  artist: "Timbalive"
+  album: "La Timba Pa' To' El Mundo"
+  year: 2011
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=IU5A-o-Wsbg"
+
+-
+  file: "consumelo.mp3"
+  title: "Consumelo"
+  artist: "Timbalive"
+  album: "Consumelo"
+  year: 2018
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=cu9Y0IM4jd8"
+
+-
+  file: "la-cocina.mp3"
+  title: "La Cocina"
+  artist: "Timbalive"
+  album: "Consumelo"
+  year: 2018
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=Mfot0aHlmcg"
+
+-
+  file: "esta-es-mi-musica.mp3"
+  title: "Esta Es Mi Musica"
+  artist: "Timbalive"
+  album: "Consumelo"
+  year: 2018
+  genre: "Timba"
+  url: "https://www.youtube.com/watch?v=W1EZAmF6DA8"
 
