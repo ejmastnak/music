@@ -4,7 +4,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 1
+  genre: "Kora"
 
 -
   file: "kala.mp3"
@@ -12,7 +12,7 @@
   album: "In the Heart of the Moon"
   artist: "Ali Farka Toure & Toumani Diabate"
   year: 2005
-  track: 2
+  genre: "Kora"
 
 -
   file: "mamadou-boutiquier.mp3"
@@ -20,7 +20,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 3
+  genre: "Kora"
 
 -
   file: "monsieur-le-maire-de-niafunké.mp3"
@@ -28,7 +28,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 4
+  genre: "Kora"
 
 -
   file: "kaira.mp3"
@@ -36,7 +36,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 5
+  genre: "Kora"
 
 -
   file: "simbo.mp3"
@@ -44,7 +44,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 6
+  genre: "Kora"
 
 -
   file: "ai-ga-bani.mp3"
@@ -52,7 +52,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 7
+  genre: "Kora"
 
 -
   file: "soumbou-ya-ya.mp3"
@@ -60,7 +60,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 8
+  genre: "Kora"
 
 -
   file: "naweye-toro.mp3"
@@ -68,7 +68,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 9
+  genre: "Kora"
 
 -
   file: "kadi-kadi.mp3"
@@ -76,7 +76,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 10
+  genre: "Kora"
 
 -
   file: "gomni.mp3"
@@ -84,7 +84,7 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 11
+  genre: "Kora"
 
 -
   file: "hawa-dolo.mp3"
@@ -92,4 +92,4 @@
   artist: "Ali Farka Toure & Toumani Diabate"
   album: "In the Heart of the Moon"
   year: 2005
-  track: 12
+  genre: "Kora"
