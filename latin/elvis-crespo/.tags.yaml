@@ -5,6 +5,7 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=ZemZjPCXe0A"
   
 -
   file: "por-el-caminito.mp3"
@@ -13,6 +14,7 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=uXHvXmZqr7c"
   
 -
   file: "besos-de-coral.mp3"
@@ -21,6 +23,7 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=VRDYAqYZXoU"
   
 -
   file: "solo-me-miro.mp3"
@@ -29,6 +32,7 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=TfF4lQsQgFA"
   
 -
   file: "tiemblo.mp3"
@@ -37,6 +41,7 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=DNud6DRj420"
   
 -
   file: "linda-eh.mp3"
@@ -45,6 +50,7 @@
   album: "Esta de Moda"
   year: 1996
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=dElUL4hvbJE"
   
 -
   file: "tu-sonrisa.mp3"
@@ -53,6 +59,7 @@
   album: "Suavemente"
   year: 1998
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=q1QjBsMNQnM"
   
 -
   file: "luna-llena.mp3"
@@ -61,6 +68,7 @@
   album: "Suavemente"
   year: 1998
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=9EtC8zBHEIc"
   
 -
   file: "suavemente.mp3"
@@ -69,6 +77,7 @@
   album: "Suavemente"
   year: 1998
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=QH0zo6AcP6g"
   
 -
   file: "me-miras-y-te-miro.mp3"
@@ -77,6 +86,7 @@
   album: "Alto Honor"
   year: 1997
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=M3fdWamxjA0"
   
 -
   file: "ojitos-bellos.mp3"
@@ -85,6 +95,7 @@
   album: "Dance Mania"
   year: 1995
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=jnkLAMVI0so"
   
 -
   file: "princesita.mp3"
@@ -93,6 +104,7 @@
   album: "Suavemente"
   year: 1998
   genre: "Merengue"
+  url: "https://www.youtube.com/watch?v=pfEf7i9uMPU"
   
 -
   file: "vuelve-conmigo.mp3"
@@ -101,4 +113,4 @@
   album: "Pintame"
   year: 1999
   genre: "Merengue"
-  
+  url: "https://www.youtube.com/watch?v=HCUTsauK_q8"

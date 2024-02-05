@@ -5,6 +5,7 @@
   album: "Con Un Poco De Songo"
   year: 1981
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=2Qdfx9K1jq8"
   
 -
   file: "a-la-i-ole.mp3"
@@ -13,6 +14,7 @@
   album: "Con Un Poco De Songo"
   year: 1981
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=lvIxyO6pqwg"
   
 -
   file: "batacumbele.mp3"
@@ -21,6 +23,7 @@
   album: "Con Un Poco De Songo"
   year: 1981
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=7rzhGIfC0fw"
   
 -
   file: "en-aquellos-tiempos.mp3"
@@ -29,6 +32,7 @@
   album: "En Aquellos Tiempos"
   year: 1983
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=EYvGlVtCc0k"
   
 -
   file: "dame-un-traguito.mp3"
@@ -37,22 +41,25 @@
   album: "En Aquellos Tiempos"
   year: 1983
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=NqqNjAEMsaM"
   
 -
-  file: "el-mas-chevere.mp3"
-  title: "El Mas Chevere"
+  file: "el-mas-chévere.mp3"
+  title: "El Ma' Chévere"
   artist: "Batacumbele"
   album: "En Aquellos Tiempos"
   year: 1983
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=ik3ZRliTLLo"
   
 -
-  file: "la-piye.mp3"
-  title: "La Piye"
+  file: "la-piyé.mp3"
+  title: "La Piyé"
   artist: "Batacumbele"
   album: "Con Un Poco De Songo"
   year: 1981
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=ZLwp1FEiIPI"
   
 -
   file: "batarengue.mp3"
@@ -61,6 +68,7 @@
   album: "En Aquellos Tiempos"
   year: 1983
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=SscnMGbA-Yk"
   
 -
   file: "bailala.mp3"
@@ -69,3 +77,4 @@
   album: "En Aquellos Tiempos"
   year: 1983
   genre: "Salsa"
+  url: "https://www.youtube.com/watch?v=EnIR78lvTdU"

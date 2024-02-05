@@ -1,105 +1,121 @@
 -
   file: "la-murga-de-panama.mp3"
-  title: La Murga
-  album: Asalto Navideqo
-  artist: Hictor Lavoe and Willie Colsn
+  title: "La Murga"
+  album: "Asalto Navideqo"
+  artist: "Willie Colón"
   year: 1971
+  featured_artist: "Hector Lavoe"
+  url: "https://www.youtube.com/watch?v=lsg8sDEYUmo"
   
 -
   file: "che-che-cole.mp3"
-  title: Che Che Cole
-  artist: Willie Colsn
-  album: Cosa Nuestra
+  title: "Che Che Cole"
+  artist: "Willie Colón"
+  album: "Cosa Nuestra"
   year: 1970
+  featured_artist: "Hector Lavoe"
+  url: "https://www.youtube.com/watch?v=-X92muXeN-s"
   
 -
   file: "tema-del-papelon.mp3"
-  title: Tema del Papelon
-  artist: Nelson y Sus Estrellas
-  album: Mucho Nelson
+  title: "Tema del Papelon"
+  artist: "Nelson y Sus Estrellas"
+  album: "Mucho Nelson"
   year: 1968
+  url: "https://www.youtube.com/watch?v=UEGXjFsGcAU"
   
 -
   file: "la-rebelion.mp3"
-  title: Rebelion (No Le Pegue a la Negra)
-  artist: Joe Arroyo Y La Verdad
-  album: Musa Original
+  title: "Rebelion (No Le Pegue a la Negra)"
+  artist: "Joe Arroyo Y La Verdad"
+  album: "Musa Original"
   year: 1986
+  url: "https://www.youtube.com/watch?v=Wdu5W3cnsj0"
   
 -
   file: "acuyuye.mp3"
-  title: Acuyuye
-  artist: Pacheco y Su Charanga
-  album: Que Suene La Flauta
+  title: "Acuyuye"
+  artist: "Pacheco y Su Charanga"
+  album: "Que Suene La Flauta"
   year: 1962
+  url: "https://www.youtube.com/watch?v=BLSIs6wV_F0"
   
 -
   file: "en-barranquilla-me-quedo.mp3"
-  title: En Barranquilla Me Quedo
-  artist: Joe Arroyo Y La Verdad
-  album: Fuego En Mi Mente
+  title: "En Barranquilla Me Quedo"
+  artist: "Joe Arroyo Y La Verdad"
+  album: "Fuego En Mi Mente"
   year: 1988
-  
+  url: "https://www.youtube.com/watch?v=ibcAAlM6R9U"
+
 -
   file: "micaela.mp3"
-  title: Micaela
-  artist: Sonora Carruseles
-  album: Heavy Salsa
+  title: "Micaela"
+  artist: "Sonora Carruseles"
+  album: "Heavy Salsa"
   year: 1998
+  url: "https://www.youtube.com/watch?v=tW_m-3XvS2Q"
   
 -
   file: "el-rincon.mp3"
-  title: El Rincon
-  artist: Conjunto Sensacisn
-  album: Swing
+  title: "El Rincon"
+  artist: "Conjunto Sensacisn"
+  album: "Swing"
   year: 1965
+  url: "https://www.youtube.com/watch?v=U64bg2-Nogo"
   
 -
   file: "pita-camion.mp3"
-  title: Pita Camisn
-  artist: Charanga 76
-  album: Pita Camion
+  title: "Pita Camion"
+  artist: "Charanga 76"
+  album: "Pita Camion"
   year: 1977
+  url: "https://www.youtube.com/watch?v=wa5NU2_roHk"
   
 -
   file: "ganas-de-bailar-el-son.mp3"
-  title: Ganas de Bailar el Son
-  artist: La Charanga Casino
-  album:  oberto Torres Presenta... La Charanga Casino
+  title: "Ganas de Bailar el Son"
+  artist: "La Charanga Casino"
+  album: "Roberto Torres Presenta... La Charanga Casino"
   year: 1979
+  url: "https://www.youtube.com/watch?v=avdc6K2AhVk"
   
 -
   file: "me-voy-pa-moron.mp3"
-  title: Me Voy Pa Moron
-  artist: Nelson y Sus Estrellas
-  album: La Salsa Y El Swing
+  title: "Me Voy Pa' Moron"
+  artist: "Nelson y Sus Estrellas"
+  album: "La Salsa Y El Swing"
   year: 1967
+  url: "https://www.youtube.com/watch?v=DvrNlW8Efcs"
   
 -
-  file: "azucar.mp3"
-  title: Azucar
-  artist: Eddie Palmieri
-  album: Azucar Pa Ti
+  file: "azúcar.mp3"
+  title: "Azúcar"
+  artist: "Eddie Palmieri"
+  album: "Azucar Pa Ti"
   year: 1965
+  url: "https://www.youtube.com/watch?v=ThjlyO9fRUQ"
   
 -
   file: "cachondea.mp3"
-  title: Cachondea
-  artist: Fruko y Sus Tesos
-  album: Power Salsa
+  title: "Cachondea"
+  artist: "Fruko y Sus Tesos"
+  album: "Power Salsa"
   year: 2000
+  url: "https://www.youtube.com/watch?v=AztgSqsBx_A"
   
 -
   file: "la-salsa-se-impone.mp3"
-  title: La Salsa Se Impone
-  artist: Joe Quijano
-  album: Joe Quijano Presenta A Ray Cruz Con El Conjunto Cachana
+  title: "La Salsa Se Impone"
+  artist: "Joe Quijano"
+  album: "Joe Quijano Presenta A Ray Cruz Con El Conjunto Cachana"
   year: 1977
+  url: "https://www.youtube.com/watch?v=7GlkAyqP5tQ"
   
 -
   file: "guajiro.mp3"
-  title: Guajiro
-  artist: La Charanga Casino
-  album: Roberto Torres Presenta... La Charanga Casino
+  title: "Guajiro"
+  artist: "La Charanga Casino"
+  album: "Roberto Torres Presenta... La Charanga Casino"
   year: 1979
-  
+  url: "https://www.youtube.com/watch?v=mxbVBePu3bI"

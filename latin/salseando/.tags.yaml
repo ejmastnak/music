@@ -1,104 +1,126 @@
 -
-  file: "ahi-na-ma.opus"
+  file: "ahí-na-má.mp3"
   title: "Ahí Na' Ma'"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=OpRuwu7lqLI"
   
 -
-  file: "fuerza-gigante.opus"
+  file: "fuerza-gigante.mp3"
   title: "Fuerza Gigante"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=Uhs_dfkD6qc"
   
 -
-  file: "arinanara.opus"
-  title: "Arinanara"
+  file: "ariñáñara.mp3"
+  title: "Ariñáñara"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=5uShIRwf8NQ"
   
 -
-  file: "el-swing.opus"
+  file: "el-swing.mp3"
   title: "El Swing"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=QllBBRa7dp8"
   
 -
-  file: "pa-bravo-yo.opus"
+  file: "pa-bravo-yo.mp3"
   title: "Pa' Bravo Yo"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=PxTY3vqeYy4"
   
 -
-  file: "caridad.opus"
+  file: "caridad.mp3"
   title: "Caridad"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=WgDN6PcbPp8"
   
 -
-  file: "la-cartera.opus"
+  file: "la-cartera.mp3"
   title: "La Cartera"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=BdZPNbKCrb8"
   
 -
-  file: "lluvia.opus"
+  file: "lluvia.mp3"
   title: "Lluvia"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=jKJTmT1-MBM"
   
 -
-  file: "trucutu.opus"
-  title: "Trucutu"
+  file: "trucutú.mp3"
+  title: "Trucutú"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=y_btdskTa-Y"
   
 -
-  file: "llanto-de-cocodrilo.opus"
+  file: "llanto-de-cocodrillo.mp3"
   title: "Llanto de Cocodrillo"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=QtcnVICC6s4"
   
 -
-  file: "senor-sereno.opus"
+  file: "señor-sereno.mp3"
   title: "Señor Sereno"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=7HALYr5VJAs"
   
 -
-  file: "guancona.opus"
+  file: "guancona.mp3"
   title: "Guancona"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
+  url: "https://www.youtube.com/watch?v=sQoMt7kMDYc"
   
 -
-  file: "que-humanidad.opus"
-  title: "Que Humanidad"
+  file: "qué-humanidad.mp3"
+  title: "¡Qué Humanidad!"
   artist: "Descarga Boricua"
   album: "Salseando"
   genre: "Salsa"
   year: 2008
-  
+  url: "https://www.youtube.com/watch?v=jxcVzENMkQA"
+
+
+-
+  file: "guancona.mp3"
+  title: "Guancona"
+  artist: "Descarga Boricua"
+  album: "Salseando"
+  genre: "Salsa"
+  year: 2008
+  url: "https://www.youtube.com/watch?v=sQoMt7kMDYc"

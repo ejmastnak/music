@@ -4,23 +4,26 @@
   artist: "Spanish Harlem Orchestra"
   album: "Viva La Tradicion"
   year: 2010
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=aqbEQ67gTY4"
 
 -
   file: "como-lo-canto-yo.mp3"
-  title: "Como lo Canto Yo"
+  title: "Como Lo Canto Yo"
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=WDX6aVLyABE"
 
 -
-  file: "dime-si-llegue-a-tiempo.mp3"
-  title: "Dime Si Llegue a Tiempo"
+  file: "dime-si-llegué-a-tiempo.mp3"
+  title: "Dime Si Llegué a Tiempo"
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=gvMTK3R-0YQ"
 
 -
   file: "esa-nena.mp3"
@@ -28,15 +31,16 @@
   artist: "Spanish Harlem Orchestra"
   album: "Anniversery"
   year: 2018
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
 
 -
   file: "escucha-el-ritmo.mp3"
-  title: "Escucha el Ritmo"
+  title: "Escucha El Ritmo"
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=ZmbtG-ppn48"
 
 -
   file: "goza-el-ritmo.mp3"
@@ -44,7 +48,7 @@
   artist: "Spanish Harlem Orchestra"
   album: "Anniversery"
   year: 2018
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
 
 -
   file: "guaracha-y-bembe.mp3"
@@ -52,7 +56,7 @@
   artist: "Spanish Harlem Orchestra"
   album: "Anniversery"
   year: 2018
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
 
 -
   file: "la-banda.mp3"
@@ -60,23 +64,26 @@
   artist: "Spanish Harlem Orchestra"
   album: "Un Gran Día En El Barrio"
   year: 2002
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=KhF5qGIHmZs"
 
 -
-  file: "la-fiesta-empezo.mp3"
+  file: "la-fiesta-empezó.mp3"
   title: "La Fiesta Empezó"
   artist: "Spanish Harlem Orchestra"
   album: "Viva La Tradicion"
   year: 2010
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=gDT8XxEl6jc"
 
 -
   file: "la-musica-es-mi-vida.mp3"
-  title: "La Musica es Mi Vida"
+  title: "La Musica Es Mi Vida"
   artist: "Spanish Harlem Orchestra"
   album: "Un Gran Día En El Barrio"
   year: 2002
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=re-F7YV-uaA"
 
 -
   file: "la-salsa-dura.mp3"
@@ -84,7 +91,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Viva La Tradicion"
   year: 2010
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=jelISDIlLHY"
 
 -
   file: "maestro-de-rumbero.mp3"
@@ -92,7 +100,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=1P-4JFqmu-c"
 
 -
   file: "mama-guela.mp3"
@@ -100,7 +109,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Un Gran Día En El Barrio"
   year: 2002
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=KnRbiySWFHU"
 
 -
   file: "pa-gozar.mp3"
@@ -108,15 +118,17 @@
   artist: "Spanish Harlem Orchestra"
   album: "Un Gran Día En El Barrio"
   year: 2002
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=AhfIdK9H8fw"
 
 -
   file: "plena-con-sabor.mp3"
-  title: "Plena con Sabor"
+  title: "Plena Con Sabor"
   artist: "Spanish Harlem Orchestra"
   album: "United We Swing"
   year: 2007
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=Q9BP5rab6V4"
 
 -
   file: "pueblo-latino.mp3"
@@ -124,7 +136,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Un Gran Día En El Barrio"
   year: 2002
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=nu5FbqwbpIs"
 
 -
   file: "que-bonito.mp3"
@@ -132,7 +145,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "United We Swing"
   year: 2007
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=2Db49xW8dOU"
 
 -
   file: "salsa-pal-bailador.mp3"
@@ -140,7 +154,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "United We Swing"
   year: 2007
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=lUE0oge_7vU"
 
 -
   file: "son-de-corazon.mp3"
@@ -148,7 +163,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Viva La Tradicion"
   year: 2010
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=cHM3XTKlhiI"
 
 -
   file: "te-cantare.mp3"
@@ -156,7 +172,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=AH_IUP1zVFI"
 
 -
   file: "tun-tun-suena-el-tambor.mp3"
@@ -164,7 +181,8 @@
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=KBPjDtjOZdQ"
 
 -
   file: "un-gran-dia-en-el-barrio.mp3"
@@ -172,4 +190,5 @@
   artist: "Spanish Harlem Orchestra"
   album: "Across 110th St. Featuring Ruben Blades"
   year: 2004
-  genre: "Salsa dura"
+  genre: "Salsa Dura"
+  url: "https://www.youtube.com/watch?v=00Kz86LjBO4"
